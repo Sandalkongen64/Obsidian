@@ -20,8 +20,8 @@ De fleste smartphones kan ringe 112 ved gentagende gange at trykke på sluk/tæn
 Du kan ringe 112 i hele EU og få fat i den lokale alarmcentral. 
 
 ## DEL 4
-### Anatomy og hypothermia (man er kold)
-general lære om anatomy
+### Anatomi og hypothermia (man er kold)
+general lære om anatomi.
 
 En plastik pose er god hvis man er kold og skal varmes op og så kan man putte tøj over den.
 
@@ -49,4 +49,11 @@ Der er to plast dimser der skal sættes på højre skulder og under venstre armh
 
 Hjerteløber appen er god at have nu hvor man har lært en del om førstehjælp.
 
+## DEL 7
+### Videoer og refleksion
 
+vi så 2 videoer. en der viste god HLR og en der viste dårlig HLR. 
+
+i den ene video så vi hvordan det gik langsomt for dem der lavede HLR.
+
+i den anden gik det tjept og der foregik flere ting samtidig.
