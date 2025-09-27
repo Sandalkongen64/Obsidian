@@ -26,10 +26,10 @@ general lære om anatomy
 En plastik pose er god hvis man er kold og skal varmes op og så kan man putte tøj over den.
 
 ## DEL 5
-### Gaze og turnerkit
-Det vigtigste er at få det gjort. Der er 8 måder at ligge gaze på men det vigtiste er at få det gjort ud fra 2 principper: det sidder på såret og det er forholdsvist stramt. 
+### Gaze og tourniquet
+Det vigtigste er at få det gjort. Der er 8 måder at ligge gaze på men det vigtigste er at få det gjort ud fra 2 principper: det sidder på såret og det er forholdsvist stramt. 
 
-turnerkit kan man have på i 6t før man skal lette på det og få blod tilbage. 
+Tourniquet kan man have på i 6t før man skal lette på det og få blod tilbage. 
 
 ## DEL 6
 ### HLR
@@ -38,3 +38,11 @@ Før HLR startes, ringer man 112 og ligger telefonen fra sig på højtaler.
 **HLR** 30 tryk - 120bpm derefter 2 pust på 5 sek. 
 
 Hvis individet er druknet så skal der startes med tre omgange HLR hvor der allerførst startes med 5 pust i stedet for 2.
+
+**Vi prøvede 2 masker:** 
+en lille maske man kan have i en pose på nøgleringen, den er hurtig at bruge og man har den altid med sig. Den er ikke nem at lukke af for og glider meget.
+
+En maske lavet af fleksibelt plastik der sidder godt fast på ansigtet og er nemmere at bruge, den ligger i hjerterednings kasserne. den er meget stor så man kan ikke rigtig have den med sig nemt.
+
+## DEL 7
+### ?
