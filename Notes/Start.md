@@ -12,3 +12,6 @@
 
 ### Personlige Projekter
 - [[server]]
+
+### Kurser
+- [[Tolvtimers Førstehjælpskursus]]

@@ -1,0 +1,3 @@
+Det betyder egentligt ikke så meget hvordan din process er til at rede folk, der er de officielle metoder som virker hvordan man gør der "ordentligt". Det vigtige er at du kommer fra A til B hurtigst muligt. 
+
+f.eks. sikkert sideleje er vigtigt at få en bevidstløs i men hvordan er ikke så vigtigt, der er en nem metode som virker ofte men det vigtige er at få gjort luftvejende åbne og at de ikke kløjes i kast op eller andet. 

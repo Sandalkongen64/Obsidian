@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Julefrokost.md",
+                "file": "Tolvtimers Førstehjælpskursus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Julefrokost"
+              "title": "Tolvtimers Førstehjælpskursus"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Julefrokost.md",
+                "file": "Tolvtimers Førstehjælpskursus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Julefrokost"
+              "title": "Backlinks for Tolvtimers Førstehjælpskursus"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Julefrokost.md",
+                "file": "Tolvtimers Førstehjælpskursus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Julefrokost"
+              "title": "Outgoing links from Tolvtimers Førstehjælpskursus"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Julefrokost.md",
+                "file": "Tolvtimers Førstehjælpskursus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Julefrokost"
+              "title": "Outline of Tolvtimers Førstehjælpskursus"
             }
           }
         ]
@@ -166,11 +166,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "dcf2097be5354252",
   "lastOpenFiles": [
+    "Notes/Start.md",
+    "Tolvtimers Førstehjælpskursus.md",
+    "Notes/Julefrokost.md",
     "Notes/JOTA JOTI.md",
     "Notes/General.md",
     "Notes/Datoer.md",
