@@ -32,7 +32,7 @@ Det vigtigste er at få det gjort. Der er 8 måder at ligge gaze på men det vig
 Tourniquet kan man have på i 6t før man skal lette på det og få blod tilbage. 
 
 ## DEL 6
-### HLR
+### Genoplivning
 Før HLR startes, ringer man 112 og ligger telefonen fra sig på højtaler.
 
 **HLR** 30 tryk - 120bpm derefter 2 pust på 5 sek. 
@@ -44,5 +44,9 @@ en lille maske man kan have i en pose på nøgleringen, den er hurtig at bruge o
 
 En maske lavet af fleksibelt plastik der sidder godt fast på ansigtet og er nemmere at bruge, den ligger i hjerterednings kasserne. den er meget stor så man kan ikke rigtig have den med sig nemt.
 
-## DEL 7
-### ?
+**Hjertestarter**
+Der er to plast dimser der skal sættes på højre skulder og under venstre armhule. Man skal ellers bare følge hjertestarterens instrukser. dog skal man være obs på at den bibber med en bpm på 100 hvor man optimalt skal være på 120bpm.
+
+Hjerteløber appen er god at have nu hvor man har lært en del om førstehjælp.
+
+

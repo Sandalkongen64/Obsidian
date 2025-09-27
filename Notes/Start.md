@@ -11,7 +11,7 @@
 - [[General]]
 
 ### Personlige Projekter
-- [[server]]
+- [[Server]]
 
 ### Kurser
 - [[Tolvtimers Førstehjælpskursus]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Start.md",
+                "file": "Notes/Tolvtimers Førstehjælpskursus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Start"
+              "title": "Tolvtimers Førstehjælpskursus"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Start.md",
+                "file": "Notes/Tolvtimers Førstehjælpskursus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Start"
+              "title": "Backlinks for Tolvtimers Førstehjælpskursus"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Start.md",
+                "file": "Notes/Tolvtimers Førstehjælpskursus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Start"
+              "title": "Outgoing links from Tolvtimers Førstehjælpskursus"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Start.md",
+                "file": "Notes/Tolvtimers Førstehjælpskursus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Start"
+              "title": "Outline of Tolvtimers Førstehjælpskursus"
             }
           }
         ]
@@ -172,14 +172,14 @@
   },
   "active": "dcf2097be5354252",
   "lastOpenFiles": [
-    "Temp/hahaha.md",
+    "Notes/JOTA JOTI.md",
+    "Notes/Server.md",
     "Notes/Start.md",
-    "Notes/server.md",
+    "Temp/hahaha.md",
     "Notes/Tolvtimers Førstehjælpskursus.md",
     "README.md",
     "where_chest.png",
     "Notes/Julefrokost.md",
-    "Notes/JOTA JOTI.md",
     "Notes/General.md",
     "Notes/Datoer.md"
   ]
