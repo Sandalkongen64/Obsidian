@@ -82,11 +82,12 @@ Hvis man hyperventilere så får man for meget ilt ind og for meget co2 ud hvilk
 1) Skab sikkerhed
 2) Vurder personen
 		Need to know
-	a) air way
+	a) Air way
 	b) Breathing
 	c) Circulation  
 		Nice to know
-		
+	d) Disposition
+	e) Enviroment
 3) Tilkald hjælp
 4) Giv førstehjælp
 

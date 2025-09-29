@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start.md",
+                "file": "Tolvtimers Førstehjælpskursus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Start"
+              "title": "Tolvtimers Førstehjælpskursus"
             }
           }
         ]
@@ -31,10 +31,14 @@
             "id": "08bdc693ba52e0bf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Start.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Start"
             }
           }
         ]
@@ -184,9 +188,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "08bdc693ba52e0bf",
+  "active": "9d829ab086dd41f1",
   "lastOpenFiles": [
     "Start.md",
+    "Tolvtimers Førstehjælpskursus.md",
     "server.md",
     "Koder.md",
     "Julefrokost.md",
