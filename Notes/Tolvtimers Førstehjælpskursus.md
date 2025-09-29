@@ -1,3 +1,4 @@
+# DAG 1
 ## DEL 1
 ### Bevidstløse individer
 Det betyder egentligt ikke så meget hvordan din process er til at rede folk, der er de officielle metoder som virker hvordan man gør der "ordentligt". Det vigtige er at du kommer fra A til B hurtigst muligt. 
@@ -57,3 +58,76 @@ vi så 2 videoer. en der viste god HLR og en der viste dårlig HLR.
 i den ene video så vi hvordan det gik langsomt for dem der lavede HLR.
 
 i den anden gik det tjept og der foregik flere ting samtidig.
+
+
+# DAG 2
+
+## DEL 8
+### Pre ramble
+Ringer man 112 ude i verden så ringer den det rigtige sted automatisk. Er man i Grækenland og ringer 112 så kommer man til de relevante nødhjælpere.
+
+Mange af de samme elementer gælder for klatring og kajak.
+
+## DEL 9
+### Løb
+Det er svært at få luften ud gennem et sugerør efter man har løbet en tur
+
+man skal ikke gøre noget ved folk hvis de ikke syntes om det i forhold til sidestilling. Har de luftvejs problemer så skal man ALDRIG ligge dem ned. 
+
+LYT TIL FOLK HVIS DE ER VED BEVIDSTHED
+
+Hvis man hyperventilere så får man for meget ilt ind og for meget co2 ud hvilket ødelægger den balance der er i kroppen. For at fikse det kan man bruge en plast pose og holde den for munden af personen for at få balancen tilbage.  
+
+**DE FIRE HOVEDPUNKTER**
+1) Skab sikkerhed
+2) Vurder personen
+		Need to know
+	a) air way
+	b) Breathing
+	c) Circulation  
+		Nice to know
+		
+3) Tilkald hjælp
+4) Giv førstehjælp
+
+Tegn på tab af blodtry er at man bliver bleg og begynder at kamp svede
+
+**Blodtryk**
+Hvis man får en allergisk reaktion så taber man blodtrykket. 
+
+**EpiPen**
+ud af boks, fjern toppen, ned i låret.
+
+#### **Diabetes**
+**Type 1:** Gen fejl. Kan ikke producere insulin så skal have udefra
+
+**Type 2:** Kost og dårlige vaner. Celler kan ikke bruge insulin grundet de dårlige vaner
+
+*De kan have for højt og for lavt blodsukker.*
+
+Det tager rigtig lang tid for blodsukker at blive for højt så det er sjældent er det er et problem.
+
+Hvis deres blodsukker er for lavt, så kan det gå rigtig stærkt fra de har det okay til de får det dårligt, inden for 10min. 
+
+**Energy gel**
+Man kan bruge noget energy gel hvilket er flydende sukker til at vække dem op igen efter det er blevet for lavt. men det forsvinder hurtigt igen hvilket betyde at efter de er i gang igen så skal de have nogle lange kalorier f.eks. rugbrød, havregryn, og lignende. 
+
+**Kanyle kit**
+Der er et kit man kan bruge med en kanyle fyldt med sterilt vand, et glas med pulver i. Man putter det sterile vand ned i pulveret og blander og suger det op igen, derefter stikker man kanylen i låret og putter det ind. Det virker efter 20-30sek. 
+
+**Neuropati**
+Har man type 2 og har højt blodsukker i mange år så kan glukosen gå ind og destruere nerver og blodbaner. Det fører til at man ikke kan mærke smerte og at ens lemmer falder af. 
+
+*Det er det Erik har haft og har mistet tæer på*
+
+## DEL 10
+### Kajak og klatre redning
+
+finder man nogen der har klatret bevidstløs oppe i træet 
+
+Aluminiums tæpper sender 80% af krops varmen tilbage mod personen i tæppet. 
+
+
+del 10
+
+har en epileptiker en anfald kan man ikke gøre meget andet end at holde hovedet væk fra skade
