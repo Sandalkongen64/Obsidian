@@ -1,8 +1,8 @@
 ### Generelle noter
 - [[Datoer]]
 - [[Koder]]
-- [[ArbejdsTøj]]
-- [[KøbenhavnTur]]
+- [[Arbejds Tøj]]
+- [[København Tur]]
 ### Events
 - [[Julefrokost]]
 

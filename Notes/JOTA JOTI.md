@@ -1,10 +1,12 @@
 ## Stop dans m. føleles skilte
 
 **Beskrivelse**
-Denne her post går ud på at man skal spille nogle sange, og når musikken bliver stoppet så skal et af følelses skiltene holdes op og børnene skal efterligne følelsen. Inden musikken stoppes kan man tælle ned fra 5 mens musikken stadig spiller så børnene er klar til at vise den rigtige følelse
+Denne her post går ud på at man skal spille nogle sange, og når musikken bliver stoppet så skal et af følelses skiltene holdes op og børnene skal efterligne følelsen. Inden musikken stoppes kan man tælle ned fra 5 mens musikken stadig spiller så børnene er klar til at vise den rigtige følelse.
+
+
 
 **Materialer**
-- Følelses skilte
+- [Følelses skilte](https://docs.google.com/document/d/1K069Rl8VnXj0JM7WS8GvssGkpvKGyqIvHdhM03VlmbQ/edit?tab=t.0)
 - Playliste med sange
 - Højtaler e.l.
 
@@ -12,7 +14,7 @@ Denne her post går ud på at man skal spille nogle sange, og når musikken bliv
 ## Kims leg med tastatur knapper på posterne
 
 **Beskrivelse**
-På denne post skal børnene sendes ud til flere mindre poster, for at finde tastaturknapper. Efter børnene har indsamlet alle knapperne eller i mens de er ved at finde dem, skal de sættes korrekt på et tastatur. Posterne kommer til at stå rundt omkring 
+På denne post skal børnene sendes ud til flere mindre poster, for at finde tastaturknapper. Efter børnene har indsamlet alle knapperne eller i mens de er ved at finde dem, skal de sættes korrekt på et tastatur. Posterne kommer til at stå rundt omkring inde i hallen/udenfor. Hver post vil indeholde en mængde knapper som børnene så skal have fat i, de får ikke at vide hvor mange knapper der er i hver post. 
 
 **De små poster**
 - pap boks med en skål med havregrød med kakao pulver i. (3 knapper)
@@ -40,4 +42,7 @@ Indkøb
 - 1 pose isterninger
 - 1 pakke spaghetti
 - Orbeez
+	- Muligheder 
+	- [1](https://bents-webshop.dk/produkter/196-129767-vandperler--orbits/13785-orbeez-vandperler---den-originale-regnbuepose-med-75000-orbeez---perfekt-til-sansestimulerende-leg/) 100kr for 75.000 orbeez
+	- [2](https://www.br.dk/produkter/orbeez-feature-micro-mix-vandperler/200171523/) 100kr for 2.500 orbeez
 - 3 Ananasser
