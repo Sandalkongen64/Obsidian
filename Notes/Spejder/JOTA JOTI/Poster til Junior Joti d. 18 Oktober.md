@@ -43,6 +43,6 @@ Indkøb
 - 1 pakke spaghetti
 - Orbeez
 	- Muligheder 
-	- [1](https://bents-webshop.dk/produkter/196-129767-vandperler--orbits/13785-orbeez-vandperler---den-originale-regnbuepose-med-75000-orbeez---perfekt-til-sansestimulerende-leg/) 100kr for 75.000 orbeez
-	- [2](https://www.br.dk/produkter/orbeez-feature-micro-mix-vandperler/200171523/) 100kr for 2.500 orbeez
+	- [100kr for 75.000 orbeez](https://bents-webshop.dk/produkter/196-129767-vandperler--orbits/13785-orbeez-vandperler---den-originale-regnbuepose-med-75000-orbeez---perfekt-til-sansestimulerende-leg/)
+	- [100kr for 2.500 orbeez](https://www.br.dk/produkter/orbeez-feature-micro-mix-vandperler/200171523/)
 - 3 Ananasser

@@ -1,4 +1,7 @@
-
+``` dataview
+LIST
+FROM "Generelle noter"
+```
 ### Generelle noter
 - [[Datoer]]
 - [[Koder]]
