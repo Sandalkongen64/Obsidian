@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JOTA JOTI.md",
+                "file": "Tutorials/dataview built-in data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JOTA JOTI"
+              "title": "dataview built-in data"
             }
           }
         ],
@@ -219,17 +219,26 @@
   },
   "active": "29db864831bb7d58",
   "lastOpenFiles": [
-    "Arbejds Tøj.md",
-    "København Tur.md",
+    "Spejder/JOTA JOTI.md",
+    "Tutorials/dataview built-in data.md",
+    "Tutorials",
     "Start.md",
-    "Tolvtimers Førstehjælpskursus.md",
-    "server.md",
-    "Koder.md",
-    "Julefrokost.md",
+    "Spejder",
+    "Kurser/Tolvtimers Førstehjælpskursus.md",
+    "Personlige projekter/server.md",
+    "Kurser",
+    "VSLF/General.md",
+    "Personlige projekter",
+    "VSLF",
+    "Events/Julefrokost.md",
+    "Opgaver",
+    "Generelle noter/København Tur.md",
+    "Events",
+    "Generelle noter/Arbejds Tøj.md",
+    "Generelle noter/Koder.md",
+    "Generelle noter/Datoer.md",
+    "Generelle noter",
     "GithubStuff",
-    "General.md",
-    "Datoer.md",
-    "JOTA JOTI.md",
     "create a link.md"
   ]
 }

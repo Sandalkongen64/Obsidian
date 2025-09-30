@@ -1,3 +1,4 @@
+
 ### Generelle noter
 - [[Datoer]]
 - [[Koder]]
@@ -13,7 +14,7 @@
 - [[General]]
 
 ### Personlige Projekter
-- [[Server]]
+- [[server]]
 
 ### Kurser
 - [[Tolvtimers Førstehjælpskursus]]
