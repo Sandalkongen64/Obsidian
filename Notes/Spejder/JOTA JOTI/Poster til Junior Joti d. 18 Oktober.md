@@ -27,12 +27,13 @@ På denne post skal børnene sendes ud til flere mindre poster, for at finde tas
 - Pap boks med en skål med kold kogt spaghetti (5)
 - Pap boks med en stor skål med Orbeez (10) 
 
-**Materialer**
-Køkken ting
+### **Materialer**
+**Køkken ting**
 - 10 pap æsker
 - 10 skåle
 - 4 store skåle
-Indkøb
+
+**Indkøb**
 - 1kg Havregryn
 - 1 pakke kakao pulver
 - 1kg mel
