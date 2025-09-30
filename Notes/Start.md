@@ -8,7 +8,7 @@
 - [[Julefrokost]]
 
 ### Opgaver
-- [[JOTA JOTI]]
+- [[Poster til Junior Joti d. 18 Oktober]]
 
 ### VSLF
 - [[General]]
