@@ -91,7 +91,7 @@ Hvis man hyperventilere så får man for meget ilt ind og for meget co2 ud hvilk
 3) Tilkald hjælp
 4) Giv førstehjælp
 
-Tegn på tab af blodtry er at man bliver bleg og begynder at kamp svede
+Tegn på tab af blodtryk er at man bliver bleg og begynder at kamp svede
 
 **Blodtryk**
 Hvis man får en allergisk reaktion så taber man blodtrykket. 
@@ -129,6 +129,6 @@ finder man nogen der har klatret bevidstløs oppe i træet
 Aluminiums tæpper sender 80% af krops varmen tilbage mod personen i tæppet. 
 
 
-del 10
-
-har en epileptiker en anfald kan man ikke gøre meget andet end at holde hovedet væk fra skade
+## DEL 11
+### Andet
+Har en epileptiker en anfald kan man ikke gøre meget andet end at holde hovedet væk fra skade
