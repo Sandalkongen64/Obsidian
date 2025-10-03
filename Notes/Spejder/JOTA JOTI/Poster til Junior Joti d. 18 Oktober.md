@@ -47,3 +47,14 @@ På denne post skal børnene sendes ud til flere mindre poster, for at finde tas
 	- [100kr for 75.000 orbeez](https://bents-webshop.dk/produkter/196-129767-vandperler--orbits/13785-orbeez-vandperler---den-originale-regnbuepose-med-75000-orbeez---perfekt-til-sansestimulerende-leg/)
 	- [100kr for 2.500 orbeez](https://www.br.dk/produkter/orbeez-feature-micro-mix-vandperler/200171523/)
 - 3 Ananasser
+
+## Dagen før
+græskar
+spaghetti
+orbeez
+## På dagen
+havregrød
+ananasser
+mel
+isvand
+cornflakes
