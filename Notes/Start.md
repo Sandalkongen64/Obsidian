@@ -7,6 +7,7 @@ FROM "Generelle noter"
 - [[Koder]]
 - [[Arbejds Tøj]]
 - [[København Tur]]
+- [[Midlertidige noter]]
 ### Events
 - [[Julefrokost]]
 

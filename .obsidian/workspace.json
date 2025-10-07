@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Spejder/JOTA JOTI/Møde Noter.md",
+                "file": "Midlertidige noter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Møde Noter"
+              "title": "Midlertidige noter"
             }
           }
         ]
@@ -172,8 +172,10 @@
   },
   "active": "dcf2097be5354252",
   "lastOpenFiles": [
-    "Notes/Spejder/JOTA JOTI/Poster til Junior Joti d. 18 Oktober.md",
+    "Notes/Start.md",
+    "Midlertidige noter.md",
     "Notes/Spejder/JOTA JOTI/Møde Noter.md",
+    "Notes/Spejder/JOTA JOTI/Poster til Junior Joti d. 18 Oktober.md",
     "Notes/Spejder/JOTA JOTI/Untitled",
     "Notes/Tolvtimers Førstehjælpskursus.md",
     "Notes/VSLF/General.md",
@@ -193,7 +195,6 @@
     "Notes/Generelle noter",
     "Notes/Events/Julefrokost.md",
     "Notes/Events",
-    "Notes/Start.md",
     "Notes/JOTA JOTI.md",
     "Notes/Server.md",
     "Temp/hahaha.md",
