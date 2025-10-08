@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Need to have stuff.md",
+                "file": "Spejder/JOTA JOTI/Møde Noter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Need to have stuff"
+              "title": "Møde Noter"
             }
           }
         ]
@@ -168,10 +168,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "34a7c7c76e4ded8a",
+  "active": "29db864831bb7d58",
   "lastOpenFiles": [
-    "Tech/Linux.md",
     "Tech/Need to have stuff.md",
+    "Tech/Linux.md",
     "Tech/server.md",
     "Start.md",
     "Spejder/JOTA JOTI/Poster til Junior Joti d. 18 Oktober.md",
