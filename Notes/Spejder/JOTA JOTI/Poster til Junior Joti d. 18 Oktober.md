@@ -19,13 +19,13 @@ På denne post skal børnene sendes ud til flere mindre poster, for at finde tas
 **De små poster**
 - pap boks med en skål med havregrød med kakao pulver i. (3 knapper)
 - Pap boks med op til flere ananasser i. (5)
-- Pap boks med en skål med Jello i (4)
+- Pap boks med en skål med gelé i (4)
 - Pap boks med en skål med mel i (3)
 - Pap boks med en skål med cornflakes (3)
 - Pap boks med en skål med isvand (7)
-- Et græsker der er udhulet og indmaden er lagt tilbage ind i (7)
+- Et græskar der er udhulet og indmaden er lagt tilbage ind i (7)
 - Pap boks med en skål med kold kogt spaghetti (5)
-- Pap boks med en stor skål med Orbeez (10) 
+- Pap boks med en stor skål med Lego (10) 
 
 ### **Materialer**
 **Køkken ting**
@@ -42,19 +42,17 @@ På denne post skal børnene sendes ud til flere mindre poster, for at finde tas
 - 1 boks jello
 - 1 pose isterninger
 - 1 pakke spaghetti
-- Orbeez
-	- Muligheder 
-	- [100kr for 75.000 orbeez](https://bents-webshop.dk/produkter/196-129767-vandperler--orbits/13785-orbeez-vandperler---den-originale-regnbuepose-med-75000-orbeez---perfekt-til-sansestimulerende-leg/)
-	- [100kr for 2.500 orbeez](https://www.br.dk/produkter/orbeez-feature-micro-mix-vandperler/200171523/)
+- Orbeez (https://bents-webshop.dk/produkter/196-129767-vandperler--orbits/724-vandperler--orbits---multi-farvet--30000-stk--15mm/)
 - 3 Ananasser
 
 ## Dagen før
-græskar
-spaghetti
-orbeez
+Husblas gelé
 ## På dagen
-havregrød
-ananasser
-mel
-isvand
-cornflakes
+Papkasser skal laves til dvs. der skal laves et hul i dem og et stykke sort dug skal sættes for åbningen
+Græskar
+Spaghetti
+Havregrød
+Ananasser
+Mel
+Isvand
+Cornflakes
