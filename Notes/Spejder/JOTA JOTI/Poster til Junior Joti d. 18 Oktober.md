@@ -46,13 +46,13 @@ På denne post skal børnene sendes ud til flere mindre poster, for at finde tas
 - 3 Ananasser
 
 ## Dagen før
-Husblas gelé
+~~Husblas gelé~~
 ## På dagen
-Papkasser skal laves til dvs. der skal laves et hul i dem og et stykke sort dug skal sættes for åbningen
-Græskar
-Spaghetti
+~~Papkasser skal laves til dvs. der skal laves et hul i dem og et stykke sort dug skal sættes for åbningen~~
+~~Græskar~~
+~~Spaghetti~~
 Havregrød
-Ananasser
+~~Ananasser~~
 Mel
 Isvand
 Cornflakes

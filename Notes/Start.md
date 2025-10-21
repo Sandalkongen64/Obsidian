@@ -7,7 +7,7 @@ FROM "Generelle noter"
 - [[Koder]]
 - [[Arbejds Tøj]]
 - [[København Tur]]
-- [[Midlertidige noter]]
+- [[Music to keep in feishin]]
 ### Events
 - [[Julefrokost]]
 
