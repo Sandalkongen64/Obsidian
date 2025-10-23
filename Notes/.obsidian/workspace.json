@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spejder/JOTA JOTI/Møde Noter.md",
+                "file": "Gaming/Card games/Bastard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Møde Noter"
+              "title": "Bastard"
             }
           }
         ]
@@ -170,15 +170,22 @@
   },
   "active": "29db864831bb7d58",
   "lastOpenFiles": [
+    "Start.md",
+    "Gaming/Card games/Bastard.md",
+    "Gaming/Video games",
+    "Gaming/Board games",
+    "Gaming/Card games",
+    "Gaming/Untitled.md",
+    "Gaming.md",
+    "Gaming",
+    "Tutorials/Dataview built-in data.md",
+    "Spejder/JOTA JOTI/Møde Noter.md",
     "Tech/Need to have stuff.md",
     "Tech/Linux.md",
     "Tech/server.md",
-    "Start.md",
     "Spejder/JOTA JOTI/Poster til Junior Joti d. 18 Oktober.md",
-    "Spejder/JOTA JOTI/Møde Noter.md",
     "Spejder/JOTA JOTI",
     "Spejder/Untitled.md",
-    "Tutorials/Dataview built-in data.md",
     "Tutorials",
     "Spejder",
     "Kurser/Tolvtimers Førstehjælpskursus.md",
@@ -187,14 +194,10 @@
     "Tech",
     "VSLF",
     "Events/Julefrokost.md",
-    "Opgaver",
     "Generelle noter/København Tur.md",
-    "Events",
     "Generelle noter/Arbejds Tøj.md",
     "Generelle noter/Koder.md",
     "Generelle noter/Datoer.md",
-    "Generelle noter",
-    "GithubStuff",
     "create a link.md"
   ]
 }
